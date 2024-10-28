@@ -1,0 +1,59 @@
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Logs
+*.log
+
+# Database connection strings (if stored in appsettings.json or similar)
+appsettings*.json
+appsettings.*.json
+
+# Publish Output
+publish/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Sensitive data
+*.pfx
+*.publishsettings
+
+# ReSharper
+_ReSharper*/
+*.DotSettings
+
+# Rider
+.idea/
+*.sln.iml
+
+# Other files to ignore
+*.db
+*.mdf
+*.ldf
+
+# Ignore specific solution file
+C:\Users\DELL\Desktop\SHaHD\2th_Second term\Data_Base\FlightReservation\FlightReservation\FlightReservation.sln
+C:\Users\DELL\Desktop\SHaHD\2th_Second term\Data_Base\FlightReservation\FlightReservation\.vs
